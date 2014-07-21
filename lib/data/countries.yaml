@@ -7160,8 +7160,9 @@ PL:
   ioc: POL
   latitude: 52 00 N
   longitude: 20 00 E
-  name: Poland
+  name: Polska
   names:
+  - Polska
   - Poland
   - Polen
   - Pologne
